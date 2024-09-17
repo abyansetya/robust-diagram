@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14">
   <diagram name="Page-1" id="ejmV2qgmTtuN_z0c3J_5">
-    <mxGraphModel dx="1718" dy="2671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1652" dy="2635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -722,6 +722,9 @@
         <mxCell id="KgDqdu3lI9y8hDSoOavW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.495;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="KgDqdu3lI9y8hDSoOavW-2" target="KgDqdu3lI9y8hDSoOavW-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tVq97jun2TS6qL-DBoWV-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fX9UT5zbdEOFNoqCjNZW-22" target="tVq97jun2TS6qL-DBoWV-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fX9UT5zbdEOFNoqCjNZW-22" value="Pilih Jadwal Matakuliah" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5320" y="-1997.5" width="90" height="105" as="geometry" />
         </mxCell>
@@ -836,6 +839,9 @@
               <mxPoint x="901" y="69" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tVq97jun2TS6qL-DBoWV-18" value="Pilih Jadwal Matakuliah" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5490" y="-1997.5" width="90" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
