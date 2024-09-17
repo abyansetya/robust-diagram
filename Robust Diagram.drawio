@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14">
   <diagram name="Page-1" id="ejmV2qgmTtuN_z0c3J_5">
-    <mxGraphModel dx="1892" dy="2765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4323" dy="4083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,7 +76,7 @@
             <mxPoint x="4" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9h9eiQ0I-5DAJY4tY8l-34" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Display Email or Password&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Incorrect&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#ff0000;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="f9h9eiQ0I-5DAJY4tY8l-34" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Display Email or Password&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Incorrect&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1065" y="-940" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f9h9eiQ0I-5DAJY4tY8l-37" value="Retrieve&lt;div&gt;Account&lt;br&gt;Information&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -129,7 +129,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9h9eiQ0I-5DAJY4tY8l-50" value="Third&lt;div&gt;Login&lt;br&gt;Failure&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="f9h9eiQ0I-5DAJY4tY8l-50" value="Third&lt;div&gt;Login&lt;br&gt;Failure&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1065" y="-1090" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f9h9eiQ0I-5DAJY4tY8l-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f9h9eiQ0I-5DAJY4tY8l-53" target="f9h9eiQ0I-5DAJY4tY8l-19" edge="1">
@@ -142,7 +142,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9h9eiQ0I-5DAJY4tY8l-53" value="Freeze&lt;div&gt;User&amp;nbsp;&lt;br&gt;Account&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="f9h9eiQ0I-5DAJY4tY8l-53" value="Freeze&lt;div&gt;User&amp;nbsp;&lt;br&gt;Account&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="865" y="-1100" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f9h9eiQ0I-5DAJY4tY8l-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.018;entryY=0.607;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="f9h9eiQ0I-5DAJY4tY8l-50" target="f9h9eiQ0I-5DAJY4tY8l-53" edge="1">
@@ -157,16 +157,16 @@
             <mxPoint x="1110" y="-1260.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9h9eiQ0I-5DAJY4tY8l-56" value="Click&lt;div&gt;Reset&lt;/div&gt;&lt;div&gt;Password&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="f9h9eiQ0I-5DAJY4tY8l-56" value="Click&lt;div&gt;Reset&lt;/div&gt;&lt;div&gt;Password&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1075" y="-1400" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="f9h9eiQ0I-5DAJY4tY8l-59" value="Reset&amp;nbsp;&lt;div&gt;Password&lt;/div&gt;&lt;div&gt;Page&lt;/div&gt;" style="shape=umlBoundary;whiteSpace=wrap;html=1;fillColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="f9h9eiQ0I-5DAJY4tY8l-59" value="Reset&amp;nbsp;&lt;div&gt;Password&lt;/div&gt;&lt;div&gt;Page&lt;/div&gt;" style="shape=umlBoundary;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1055" y="-1550" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f9h9eiQ0I-5DAJY4tY8l-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.359;entryY=0.113;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="f9h9eiQ0I-5DAJY4tY8l-59" target="f9h9eiQ0I-5DAJY4tY8l-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f9h9eiQ0I-5DAJY4tY8l-61" value="Input&lt;div&gt;Registered&lt;/div&gt;&lt;div&gt;Email&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="f9h9eiQ0I-5DAJY4tY8l-61" value="Input&lt;div&gt;Registered&lt;/div&gt;&lt;div&gt;Email&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1245" y="-1550" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f9h9eiQ0I-5DAJY4tY8l-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.041;entryY=0.488;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="f9h9eiQ0I-5DAJY4tY8l-61" target="f9h9eiQ0I-5DAJY4tY8l-59" edge="1">
@@ -182,7 +182,7 @@
             <mxPoint x="1455" y="-1100.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9h9eiQ0I-5DAJY4tY8l-64" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Email&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Reset&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Password&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;to&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;User&lt;/font&gt;&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="f9h9eiQ0I-5DAJY4tY8l-64" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Email&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Reset&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Password&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;to&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;User&lt;/font&gt;&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1420" y="-1550" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f9h9eiQ0I-5DAJY4tY8l-67" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;LOGIN&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -776,7 +776,7 @@
         <mxCell id="nlUZOoDZ0D_HqVT4nJBs-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iuv_yNmqDHB2O8cJPHZk-4" target="iuv_yNmqDHB2O8cJPHZk-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KgDqdu3lI9y8hDSoOavW-13" value="Display Nama Mahasiswa Not Found" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="KgDqdu3lI9y8hDSoOavW-13" value="Display Nama Mahasiswa Not Found" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2915" y="-1150" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tVq97jun2TS6qL-DBoWV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tVq97jun2TS6qL-DBoWV-3" target="tVq97jun2TS6qL-DBoWV-5">
@@ -833,7 +833,7 @@
             <mxPoint x="5310" y="-1870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KgDqdu3lI9y8hDSoOavW-9" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Display Gedung/Ruang Kelas Not Found Page&lt;/font&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="KgDqdu3lI9y8hDSoOavW-9" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Display Gedung/Ruang Kelas Not Found Page&lt;/font&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="825" y="20" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KgDqdu3lI9y8hDSoOavW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.982;entryY=0.607;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
