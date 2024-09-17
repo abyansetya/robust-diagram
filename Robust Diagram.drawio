@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Page-1" id="ejmV2qgmTtuN_z0c3J_5">
-    <mxGraphModel dx="1884" dy="2646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2143" dy="2758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -656,6 +656,34 @@
         </mxCell>
         <mxCell id="fX9UT5zbdEOFNoqCjNZW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.115;entryY=0.496;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fX9UT5zbdEOFNoqCjNZW-1" target="fX9UT5zbdEOFNoqCjNZW-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fX9UT5zbdEOFNoqCjNZW-6" value="Display dashboard page" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4790" y="-1987.5" width="90" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="fX9UT5zbdEOFNoqCjNZW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.988;entryY=0.495;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fX9UT5zbdEOFNoqCjNZW-6" target="fX9UT5zbdEOFNoqCjNZW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fX9UT5zbdEOFNoqCjNZW-8" value="Display dashboard mahasiswa" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4790" y="-1727" width="90" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="fX9UT5zbdEOFNoqCjNZW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.513;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fX9UT5zbdEOFNoqCjNZW-8" target="fX9UT5zbdEOFNoqCjNZW-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4836" y="-1760" />
+              <mxPoint x="4836" y="-1760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fX9UT5zbdEOFNoqCjNZW-10" value="Click Akademik" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fX9UT5zbdEOFNoqCjNZW-9">
+          <mxGeometry x="-0.0906" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fX9UT5zbdEOFNoqCjNZW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fX9UT5zbdEOFNoqCjNZW-11" target="fX9UT5zbdEOFNoqCjNZW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fX9UT5zbdEOFNoqCjNZW-11" value="Akademik" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5060" y="-1721.45" width="100" height="93.89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
