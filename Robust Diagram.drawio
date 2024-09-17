@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Page-1" id="ejmV2qgmTtuN_z0c3J_5">
-    <mxGraphModel dx="2327" dy="2837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2229" dy="2795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -708,8 +708,14 @@
         <mxCell id="fX9UT5zbdEOFNoqCjNZW-22" value="Isi mata kuliah" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4790" y="-1500" width="90" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="fX9UT5zbdEOFNoqCjNZW-25" value="Lihat IRS" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fX9UT5zbdEOFNoqCjNZW-25" value="Display IRS mahasiswa" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4790" y="-1285" width="90" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="fX9UT5zbdEOFNoqCjNZW-27" value="Database matakuliah" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4570.05" y="-1264.45" width="89.95" height="84.45" as="geometry" />
+        </mxCell>
+        <mxCell id="fX9UT5zbdEOFNoqCjNZW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.378;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fX9UT5zbdEOFNoqCjNZW-25" target="fX9UT5zbdEOFNoqCjNZW-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
