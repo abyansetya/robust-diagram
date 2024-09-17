@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14">
   <diagram name="Page-1" id="ejmV2qgmTtuN_z0c3J_5">
-    <mxGraphModel dx="1652" dy="2635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="2765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -722,8 +722,15 @@
         <mxCell id="KgDqdu3lI9y8hDSoOavW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.495;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="KgDqdu3lI9y8hDSoOavW-2" target="KgDqdu3lI9y8hDSoOavW-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tVq97jun2TS6qL-DBoWV-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fX9UT5zbdEOFNoqCjNZW-22" target="tVq97jun2TS6qL-DBoWV-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="tVq97jun2TS6qL-DBoWV-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fX9UT5zbdEOFNoqCjNZW-22" target="tVq97jun2TS6qL-DBoWV-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5610" y="-1945" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tVq97jun2TS6qL-DBoWV-20" value="Melakukan Konfirmasi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tVq97jun2TS6qL-DBoWV-19">
+          <mxGeometry x="-0.0296" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fX9UT5zbdEOFNoqCjNZW-22" value="Pilih Jadwal Matakuliah" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5320" y="-1997.5" width="90" height="105" as="geometry" />
@@ -763,7 +770,7 @@
         <mxCell id="FYZbQtLjGNRvOYyjjsep-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.167;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="fX9UT5zbdEOFNoqCjNZW-8" target="fX9UT5zbdEOFNoqCjNZW-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vzW3fzOS96b3kGGrr5m--2" value="Jadwal kuliah" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vzW3fzOS96b3kGGrr5m--2" value="Jadwal Matakuliah" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5310" y="-1840" width="100" height="93.89" as="geometry" />
         </mxCell>
         <mxCell id="nlUZOoDZ0D_HqVT4nJBs-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iuv_yNmqDHB2O8cJPHZk-4" target="iuv_yNmqDHB2O8cJPHZk-6" edge="1">
@@ -840,8 +847,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tVq97jun2TS6qL-DBoWV-18" value="Pilih Jadwal Matakuliah" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5490" y="-1997.5" width="90" height="105" as="geometry" />
+        <mxCell id="tVq97jun2TS6qL-DBoWV-21" value="IRS Mahasiswa" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5550" y="-1991.9499999999998" width="100" height="93.89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
