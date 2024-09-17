@@ -3049,8 +3049,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="30bcgzs0VdibMbPzDOPC-12" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;Mahasiswa Melihat KHS&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-925" y="-3780" width="370" height="50" as="geometry" />
+        <mxCell id="30bcgzs0VdibMbPzDOPC-12" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;Mahasiswa Melihat IRS&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="-3780" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-13" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1660" y="-3560" width="100" height="920" as="geometry" />
@@ -3112,7 +3112,7 @@
         <mxCell id="30bcgzs0VdibMbPzDOPC-39" value="" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="30bcgzs0VdibMbPzDOPC-38">
           <mxGeometry x="10" width="80" height="87.71084337349399" as="geometry" />
         </mxCell>
-        <mxCell id="30bcgzs0VdibMbPzDOPC-40" value="Mata Kuliah" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="30bcgzs0VdibMbPzDOPC-38">
+        <mxCell id="30bcgzs0VdibMbPzDOPC-40" value="IRS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="30bcgzs0VdibMbPzDOPC-38">
           <mxGeometry y="98.67469879518073" width="100" height="811.3253012048193" as="geometry" />
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-41" value="Search URL" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="30bcgzs0VdibMbPzDOPC-19" parent="1">
