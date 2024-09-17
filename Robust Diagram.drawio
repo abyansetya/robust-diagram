@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
   <diagram name="Page-1" id="ejmV2qgmTtuN_z0c3J_5">
-    <mxGraphModel dx="3148" dy="3191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="8790" dy="7120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -716,7 +716,7 @@
         <mxCell id="KgDqdu3lI9y8hDSoOavW-4" value="Konfirmasi" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1400" y="30" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iuv_yNmqDHB2O8cJPHZk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.115;entryY=0.496;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="iuv_yNmqDHB2O8cJPHZk-1" target="iuv_yNmqDHB2O8cJPHZk-2" edge="1">
+        <mxCell id="iuv_yNmqDHB2O8cJPHZk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.115;entryY=0.496;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="iuv_yNmqDHB2O8cJPHZk-1" target="iuv_yNmqDHB2O8cJPHZk-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KgDqdu3lI9y8hDSoOavW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.495;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="KgDqdu3lI9y8hDSoOavW-2" target="KgDqdu3lI9y8hDSoOavW-4" edge="1">
@@ -843,7 +843,7 @@
         <mxCell id="a33D1vszi0ZCZpd4tzC0-1" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Mahasiswa Melihat KHS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4365" y="-1610" width="370" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="tVq97jun2TS6qL-DBoWV-21" value="IRS Mahasiswa" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tVq97jun2TS6qL-DBoWV-21" value="IRS Mahasiswa" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5660" y="-1991.9499999999998" width="100" height="93.89" as="geometry" />
         </mxCell>
         <mxCell id="a33D1vszi0ZCZpd4tzC0-2" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Mahasiswa Melihat IRS&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -875,37 +875,67 @@
         <mxCell id="vem_wYWAN4_mhOh-QC_E-2" value="Kaprodi" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="1585" y="620" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vem_wYWAN4_mhOh-QC_E-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vem_wYWAN4_mhOh-QC_E-4" target="vem_wYWAN4_mhOh-QC_E-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a33D1vszi0ZCZpd4tzC0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.591;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a33D1vszi0ZCZpd4tzC0-5" target="a33D1vszi0ZCZpd4tzC0-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vem_wYWAN4_mhOh-QC_E-4" value="dashboard&lt;div&gt;Page&lt;/div&gt;" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="610" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a33D1vszi0ZCZpd4tzC0-5" value="Display dashboard page" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4560" y="-720" width="90" height="105" as="geometry" />
         </mxCell>
+        <mxCell id="vem_wYWAN4_mhOh-QC_E-5" value="Display&lt;div&gt;Dashboard&lt;/div&gt;&lt;div&gt;Page&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="610" width="70" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="a33D1vszi0ZCZpd4tzC0-9" value="Display dashboard IRS page" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4810" y="-932.5" width="90" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="vem_wYWAN4_mhOh-QC_E-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.05;entryY=0.508;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vem_wYWAN4_mhOh-QC_E-2" target="vem_wYWAN4_mhOh-QC_E-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a33D1vszi0ZCZpd4tzC0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a33D1vszi0ZCZpd4tzC0-4" target="a33D1vszi0ZCZpd4tzC0-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a33D1vszi0ZCZpd4tzC0-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Click Akademik menu&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a33D1vszi0ZCZpd4tzC0-10">
+        <mxCell id="a33D1vszi0ZCZpd4tzC0-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Click Akademik menu&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="a33D1vszi0ZCZpd4tzC0-10">
           <mxGeometry x="-0.1625" y="5" relative="1" as="geometry">
             <mxPoint x="13" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vem_wYWAN4_mhOh-QC_E-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vem_wYWAN4_mhOh-QC_E-11" target="vem_wYWAN4_mhOh-QC_E-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="a33D1vszi0ZCZpd4tzC0-13" value="KHS Page" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4790" y="-690" width="110" height="95" as="geometry" />
         </mxCell>
+        <mxCell id="vem_wYWAN4_mhOh-QC_E-11" value="Display&lt;div&gt;Mahasiswa Page&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="780" width="70" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="a33D1vszi0ZCZpd4tzC0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.636;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="a33D1vszi0ZCZpd4tzC0-13" target="a33D1vszi0ZCZpd4tzC0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vem_wYWAN4_mhOh-QC_E-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.495;entryY=0.121;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vem_wYWAN4_mhOh-QC_E-5" target="vem_wYWAN4_mhOh-QC_E-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a33D1vszi0ZCZpd4tzC0-15" value="Display IRS yang sudah diambil" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5050" y="-927.5" width="90" height="105" as="geometry" />
         </mxCell>
+        <mxCell id="vem_wYWAN4_mhOh-QC_E-13" value="dashboard&lt;div&gt;Mahasiswa Page&lt;/div&gt;" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="780" width="100" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="a33D1vszi0ZCZpd4tzC0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.452;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a33D1vszi0ZCZpd4tzC0-9" target="a33D1vszi0ZCZpd4tzC0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vem_wYWAN4_mhOh-QC_E-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.043;entryY=0.496;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vem_wYWAN4_mhOh-QC_E-13" target="vem_wYWAN4_mhOh-QC_E-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a33D1vszi0ZCZpd4tzC0-18" value="Database IRS" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5170" y="-783.8900000000001" width="100" height="93.89" as="geometry" />
+        </mxCell>
+        <mxCell id="vem_wYWAN4_mhOh-QC_E-15" value="Display&lt;div&gt;Mahasiswa IRS&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="950" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a33D1vszi0ZCZpd4tzC0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.01;entryY=0.492;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="a33D1vszi0ZCZpd4tzC0-18" target="a33D1vszi0ZCZpd4tzC0-15">
           <mxGeometry relative="1" as="geometry">
