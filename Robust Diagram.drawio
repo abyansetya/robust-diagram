@@ -1315,7 +1315,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9HcU2amrgL2dp1FwgtfP" name="Squence diagram">
-    <mxGraphModel dx="10938" dy="6484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="10673" dy="6320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2951,7 +2951,7 @@
             <mxPoint x="-1260" y="-4760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ldL5hhV34pnskzGD8ajM-154" value="Request Dashboard data" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="ldL5hhV34pnskzGD8ajM-154" value="Request Dashboard data" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1" target="ldL5hhV34pnskzGD8ajM-131">
           <mxGeometry x="-0.0016" width="80" relative="1" as="geometry">
             <mxPoint x="-1231.166666666666" y="-4730" as="sourcePoint" />
             <mxPoint x="-510" y="-4730" as="targetPoint" />
@@ -3012,14 +3012,40 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ldL5hhV34pnskzGD8ajM-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" edge="1">
+        <mxCell id="30bcgzs0VdibMbPzDOPC-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="290" y="-5010" width="100" height="930" as="geometry" />
+        </mxCell>
+        <mxCell id="30bcgzs0VdibMbPzDOPC-2" value="" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="30bcgzs0VdibMbPzDOPC-1">
+          <mxGeometry x="20" width="70" height="86.51162790697674" as="geometry" />
+        </mxCell>
+        <mxCell id="30bcgzs0VdibMbPzDOPC-3" value="Input Jadwal Mata Kuliah" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=50;" vertex="1" parent="30bcgzs0VdibMbPzDOPC-1">
+          <mxGeometry y="97.32558139534883" width="100" height="832.6744186046511" as="geometry" />
+        </mxCell>
+        <mxCell id="30bcgzs0VdibMbPzDOPC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" target="30bcgzs0VdibMbPzDOPC-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-496.1633333333321" y="-4220.663333333333" as="sourcePoint" />
-            <mxPoint x="1296.17" y="-4239.996666666666" as="targetPoint" />
+            <mxPoint x="-850.0022222222208" y="-4299.998888888888" as="sourcePoint" />
+            <mxPoint x="340" y="-4300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-254" y="-4300" />
+              <mxPoint x="-254" y="-4299" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ldL5hhV34pnskzGD8ajM-174" value="Menyimpan Data IRS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ldL5hhV34pnskzGD8ajM-173" vertex="1" connectable="0">
-          <mxGeometry x="-0.5565" y="1" relative="1" as="geometry">
+        <mxCell id="30bcgzs0VdibMbPzDOPC-6" value="input Jadwal Mata Kuliah" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="30bcgzs0VdibMbPzDOPC-5">
+          <mxGeometry x="-0.24" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30bcgzs0VdibMbPzDOPC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="30bcgzs0VdibMbPzDOPC-3" target="ldL5hhV34pnskzGD8ajM-152">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="-4260" />
+              <mxPoint x="1050" y="-4260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="30bcgzs0VdibMbPzDOPC-8" value="Request Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="30bcgzs0VdibMbPzDOPC-7">
+          <mxGeometry x="-0.6607" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
