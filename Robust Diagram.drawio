@@ -3235,7 +3235,7 @@
         <mxCell id="C0uigr_l4jy3WHqZyNhj-125" value="" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="C0uigr_l4jy3WHqZyNhj-124" vertex="1">
           <mxGeometry x="20" width="70" height="86.51162790697674" as="geometry" />
         </mxCell>
-        <mxCell id="C0uigr_l4jy3WHqZyNhj-126" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Display Status Perkembangan Mahasiswa&amp;nbsp;&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=50;" parent="C0uigr_l4jy3WHqZyNhj-124" vertex="1">
+        <mxCell id="C0uigr_l4jy3WHqZyNhj-126" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Display Status Perkembangan Mahasiswa&amp;nbsp;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=50;" parent="C0uigr_l4jy3WHqZyNhj-124" vertex="1">
           <mxGeometry y="97.32558139534883" width="100" height="832.6744186046511" as="geometry" />
         </mxCell>
         <mxCell id="C0uigr_l4jy3WHqZyNhj-127" value="" style="group" parent="1" vertex="1" connectable="0">
