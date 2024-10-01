@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="3">
   <diagram name="Robustness Diagram" id="ejmV2qgmTtuN_z0c3J_5">
     <mxGraphModel dx="3414" dy="3330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1315,7 +1315,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9HcU2amrgL2dp1FwgtfP" name="Squence diagram">
-    <mxGraphModel dx="10072" dy="5905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="11230" dy="6311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1520,6 +1520,9 @@
         <mxCell id="pRV-BA3cY0EK5fy6CYRH-3" value="Pengaturan&amp;nbsp;&lt;div&gt;Mata Kuliah&lt;/div&gt;&lt;div&gt;Page&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="pRV-BA3cY0EK5fy6CYRH-1" vertex="1">
           <mxGeometry x="10" y="90" width="100" height="810" as="geometry" />
         </mxCell>
+        <mxCell id="H5DkIHyThEmQ24X-kmG6-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="pRV-BA3cY0EK5fy6CYRH-1">
+          <mxGeometry x="55" y="580" width="10" height="290" as="geometry" />
+        </mxCell>
         <mxCell id="pRV-BA3cY0EK5fy6CYRH-5" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-8198.68" y="-3710" width="110" height="1460" as="geometry" />
         </mxCell>
@@ -1528,6 +1531,9 @@
         </mxCell>
         <mxCell id="pRV-BA3cY0EK5fy6CYRH-7" value="Dashboard Page" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="pRV-BA3cY0EK5fy6CYRH-5" vertex="1">
           <mxGeometry x="10" y="90" width="100" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="H5DkIHyThEmQ24X-kmG6-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="pRV-BA3cY0EK5fy6CYRH-5">
+          <mxGeometry x="55" y="180" width="10" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pRV-BA3cY0EK5fy6CYRH-8" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-7798.68" y="-3710" width="110" height="900" as="geometry" />
@@ -1538,6 +1544,9 @@
         <mxCell id="pRV-BA3cY0EK5fy6CYRH-10" value="&lt;div&gt;Daftar&lt;/div&gt;Jadwal Kuliah&lt;div&gt;Page&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="pRV-BA3cY0EK5fy6CYRH-8" vertex="1">
           <mxGeometry x="10" y="90" width="100" height="420" as="geometry" />
         </mxCell>
+        <mxCell id="H5DkIHyThEmQ24X-kmG6-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="pRV-BA3cY0EK5fy6CYRH-8">
+          <mxGeometry x="50" y="390" width="10" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="VPH4OoWDbOHHXU-a5KU8-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-6948.68" y="-3730" width="100" height="930" as="geometry" />
         </mxCell>
@@ -1545,7 +1554,10 @@
           <mxGeometry x="20" width="70" height="86.51162790697674" as="geometry" />
         </mxCell>
         <mxCell id="VPH4OoWDbOHHXU-a5KU8-3" value="Display&lt;div&gt;Dashboard&lt;/div&gt;&lt;div&gt;Page&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=50;" parent="VPH4OoWDbOHHXU-a5KU8-1" vertex="1">
-          <mxGeometry y="97.33" width="100" height="222.67" as="geometry" />
+          <mxGeometry y="97.33" width="100" height="422.6700000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="H5DkIHyThEmQ24X-kmG6-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VPH4OoWDbOHHXU-a5KU8-3">
+          <mxGeometry x="45" y="132.67" width="10" height="77.33" as="geometry" />
         </mxCell>
         <mxCell id="VPH4OoWDbOHHXU-a5KU8-4" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-6538.68" y="-3720" width="100" height="930" as="geometry" />
@@ -1556,6 +1568,9 @@
         <mxCell id="VPH4OoWDbOHHXU-a5KU8-6" value="Display&lt;div&gt;Daftar&lt;br&gt;&lt;div&gt;mata&lt;/div&gt;&lt;div&gt;Kuliah Page&lt;/div&gt;&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=50;" parent="VPH4OoWDbOHHXU-a5KU8-4" vertex="1">
           <mxGeometry y="97.33" width="100" height="352.67" as="geometry" />
         </mxCell>
+        <mxCell id="H5DkIHyThEmQ24X-kmG6-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VPH4OoWDbOHHXU-a5KU8-6">
+          <mxGeometry x="43.68" y="212.67" width="10" height="117.33" as="geometry" />
+        </mxCell>
         <mxCell id="VPH4OoWDbOHHXU-a5KU8-7" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-6108.68" y="-3720" width="100" height="930" as="geometry" />
         </mxCell>
@@ -1565,6 +1580,9 @@
         <mxCell id="VPH4OoWDbOHHXU-a5KU8-9" value="DIsplay Pengaturan Jadwal Kuliah" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=50;" parent="VPH4OoWDbOHHXU-a5KU8-7" vertex="1">
           <mxGeometry y="97.33" width="100" height="462.67" as="geometry" />
         </mxCell>
+        <mxCell id="H5DkIHyThEmQ24X-kmG6-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VPH4OoWDbOHHXU-a5KU8-7">
+          <mxGeometry x="45" y="450" width="10" height="160" as="geometry" />
+        </mxCell>
         <mxCell id="VPH4OoWDbOHHXU-a5KU8-10" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-5468.68" y="-3740" width="100" height="930" as="geometry" />
         </mxCell>
@@ -1573,6 +1591,9 @@
         </mxCell>
         <mxCell id="VPH4OoWDbOHHXU-a5KU8-12" value="Pengaturan&lt;div&gt;Semester mata kuliah&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=50;" parent="VPH4OoWDbOHHXU-a5KU8-10" vertex="1">
           <mxGeometry y="97.33" width="100" height="702.67" as="geometry" />
+        </mxCell>
+        <mxCell id="H5DkIHyThEmQ24X-kmG6-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="VPH4OoWDbOHHXU-a5KU8-10">
+          <mxGeometry x="50" y="730" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VPH4OoWDbOHHXU-a5KU8-13" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-5198.68" y="-3740" width="100" height="930" as="geometry" />
@@ -1636,20 +1657,20 @@
         </mxCell>
         <mxCell id="NzQeethei2aqIecsyIPb-2" value="request data dashboard" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.0007" width="80" relative="1" as="geometry">
-            <mxPoint x="-8139.498181818182" y="-3490" as="sourcePoint" />
+            <mxPoint x="-8130" y="-3490" as="sourcePoint" />
             <mxPoint x="-6898.68" y="-3490" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NzQeethei2aqIecsyIPb-3" value="display" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-6898.860000000001" y="-3449.9972093023252" as="sourcePoint" />
-            <mxPoint x="-8139.678181818183" y="-3449.9972093023252" as="targetPoint" />
+            <mxPoint x="-6910" y="-3440" as="sourcePoint" />
+            <mxPoint x="-8130" y="-3440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nS5f0IJWIzMl5_VrMJXc-1" value="click jadwal kuliah menu" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="nS5f0IJWIzMl5_VrMJXc-1" value="click jadwal kuliah menu" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1" source="pRV-BA3cY0EK5fy6CYRH-7">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-8140.402222222223" y="-3400" as="sourcePoint" />
+            <mxPoint x="-8120" y="-3400" as="sourcePoint" />
             <mxPoint x="-6489.18" y="-3400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1667,8 +1688,8 @@
         </mxCell>
         <mxCell id="nS5f0IJWIzMl5_VrMJXc-4" value="Display" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-6048.68" y="-3120" as="sourcePoint" />
-            <mxPoint x="-7278.68" y="-3120" as="targetPoint" />
+            <mxPoint x="-6070" y="-3120" as="sourcePoint" />
+            <mxPoint x="-7260" y="-3120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H5zHVXAAwFEx1iPBdt-z-1" value="Request data mata kuliah" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
@@ -1691,6 +1712,9 @@
         </mxCell>
         <mxCell id="rRsX0M_fiU4IbSiXN9Zz-3" value="Pengaturan jadwal kuliah" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=50;" parent="rRsX0M_fiU4IbSiXN9Zz-1" vertex="1">
           <mxGeometry y="97.33" width="100" height="632.67" as="geometry" />
+        </mxCell>
+        <mxCell id="H5DkIHyThEmQ24X-kmG6-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="rRsX0M_fiU4IbSiXN9Zz-1">
+          <mxGeometry x="45" y="660" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IrxgWHIR0b7IvQTGfGO2-1" value="Request data mata kuliah" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
