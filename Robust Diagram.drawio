@@ -1315,7 +1315,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9HcU2amrgL2dp1FwgtfP" name="Squence diagram">
-    <mxGraphModel dx="14520" dy="7730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="13486" dy="7284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2857,25 +2857,28 @@
           <mxGeometry x="35" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-15" value="Mahasiswa" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="30bcgzs0VdibMbPzDOPC-13" vertex="1">
-          <mxGeometry y="70" width="100" height="850" as="geometry" />
+          <mxGeometry y="70" width="100" height="180" as="geometry" />
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="30bcgzs0VdibMbPzDOPC-15" vertex="1">
-          <mxGeometry x="45" y="90" width="10" height="680" as="geometry" />
+          <mxGeometry x="45" y="90" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-17" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-1310" y="-3560" width="110" height="900" as="geometry" />
+          <mxGeometry x="-1310" y="-3560" width="110" height="760" as="geometry" />
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-18" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="30bcgzs0VdibMbPzDOPC-17" vertex="1">
-          <mxGeometry width="100" height="80" as="geometry" />
+          <mxGeometry width="100" height="67.55555555555556" as="geometry" />
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-19" value="Dashboard Page" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="30bcgzs0VdibMbPzDOPC-17" vertex="1">
-          <mxGeometry x="10" y="90" width="100" height="810" as="geometry" />
+          <mxGeometry x="10" y="76" width="100" height="254" as="geometry" />
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-20" value="Click IRS Menu" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="30bcgzs0VdibMbPzDOPC-17" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="59.73076923076951" y="340" as="sourcePoint" />
-            <mxPoint x="1059.5" y="340" as="targetPoint" />
+            <mxPoint x="59.73076923076951" y="287.1111111111111" as="sourcePoint" />
+            <mxPoint x="1059.5" y="287.1111111111111" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="H5DkIHyThEmQ24X-kmG6-84" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="30bcgzs0VdibMbPzDOPC-17">
+          <mxGeometry x="55" y="160.44" width="10" height="169.56" as="geometry" />
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-21" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-930" y="-3585" width="110" height="900" as="geometry" />
@@ -2884,7 +2887,10 @@
           <mxGeometry width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-23" value="IRS Page" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="30bcgzs0VdibMbPzDOPC-21" vertex="1">
-          <mxGeometry x="10" y="90" width="100" height="810" as="geometry" />
+          <mxGeometry x="10" y="90" width="100" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="H5DkIHyThEmQ24X-kmG6-85" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="30bcgzs0VdibMbPzDOPC-21">
+          <mxGeometry x="55" y="435" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-24" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-570" y="-3590" width="100" height="930" as="geometry" />
@@ -2893,7 +2899,10 @@
           <mxGeometry x="20" width="70" height="86.51162790697674" as="geometry" />
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-26" value="Display&lt;div&gt;Dashboard&lt;/div&gt;&lt;div&gt;Page&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=50;" parent="30bcgzs0VdibMbPzDOPC-24" vertex="1">
-          <mxGeometry y="97.32558139534883" width="100" height="832.6744186046511" as="geometry" />
+          <mxGeometry y="97.33" width="100" height="272.67" as="geometry" />
+        </mxCell>
+        <mxCell id="H5DkIHyThEmQ24X-kmG6-86" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="30bcgzs0VdibMbPzDOPC-26">
+          <mxGeometry x="45" y="167.67" width="10" height="102.33" as="geometry" />
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-27" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-300" y="-3580" width="100" height="930" as="geometry" />
@@ -2902,7 +2911,10 @@
           <mxGeometry x="20" width="70" height="86.51162790697674" as="geometry" />
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-29" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Display IRS Page&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=50;" parent="30bcgzs0VdibMbPzDOPC-27" vertex="1">
-          <mxGeometry y="97.32558139534883" width="100" height="832.6744186046511" as="geometry" />
+          <mxGeometry y="97.33" width="100" height="382.67" as="geometry" />
+        </mxCell>
+        <mxCell id="H5DkIHyThEmQ24X-kmG6-87" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="30bcgzs0VdibMbPzDOPC-27">
+          <mxGeometry x="45" y="280" width="10" height="200" as="geometry" />
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-38" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="15" y="-3580" width="100" height="910" as="geometry" />
@@ -2911,7 +2923,10 @@
           <mxGeometry x="10" width="80" height="87.71084337349399" as="geometry" />
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-40" value="IRS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="30bcgzs0VdibMbPzDOPC-38" vertex="1">
-          <mxGeometry y="98.67469879518073" width="100" height="811.3253012048193" as="geometry" />
+          <mxGeometry y="98.67" width="100" height="371.33" as="geometry" />
+        </mxCell>
+        <mxCell id="H5DkIHyThEmQ24X-kmG6-88" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="30bcgzs0VdibMbPzDOPC-38">
+          <mxGeometry x="45" y="350" width="10" height="120" as="geometry" />
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-41" value="Search URL" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="30bcgzs0VdibMbPzDOPC-19" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -2926,30 +2941,31 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="30bcgzs0VdibMbPzDOPC-43" value="Display" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="30bcgzs0VdibMbPzDOPC-43" value="Display" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" parent="1" edge="1" target="H5DkIHyThEmQ24X-kmG6-84">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-519.3299999999999" y="-3269.9972093023252" as="sourcePoint" />
-            <mxPoint x="-1249.996666666666" y="-3269.9972093023252" as="targetPoint" />
+            <mxPoint x="-520" y="-3235" as="sourcePoint" />
+            <mxPoint x="-1200" y="-3170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-44" value="display" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-250.5" y="-3110.83" as="sourcePoint" />
+            <mxPoint x="-260" y="-3110" as="sourcePoint" />
             <mxPoint x="-870" y="-3110.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-45" value="Request DAta" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="30bcgzs0VdibMbPzDOPC-40" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="-251.16666666666606" y="-3200" as="sourcePoint" />
+            <mxPoint x="-240" y="-3200" as="sourcePoint" />
             <mxPoint x="40" y="-3210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="30bcgzs0VdibMbPzDOPC-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" source="30bcgzs0VdibMbPzDOPC-40" target="30bcgzs0VdibMbPzDOPC-29" edge="1">
+        <mxCell id="30bcgzs0VdibMbPzDOPC-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" source="30bcgzs0VdibMbPzDOPC-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-20" y="-3140" />
               <mxPoint x="-20" y="-3140" />
             </Array>
+            <mxPoint x="-240" y="-3140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-59" value="Response Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="30bcgzs0VdibMbPzDOPC-58" vertex="1" connectable="0">
