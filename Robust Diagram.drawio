@@ -1315,7 +1315,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9HcU2amrgL2dp1FwgtfP" name="Squence diagram">
-    <mxGraphModel dx="11418" dy="6392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="11935" dy="6615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3039,6 +3039,9 @@
         <mxCell id="30bcgzs0VdibMbPzDOPC-77" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Display KHS Page&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=50;" parent="30bcgzs0VdibMbPzDOPC-75" vertex="1">
           <mxGeometry y="97.32558139534883" width="100" height="832.6744186046511" as="geometry" />
         </mxCell>
+        <mxCell id="H5DkIHyThEmQ24X-kmG6-93" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="30bcgzs0VdibMbPzDOPC-75">
+          <mxGeometry x="45" y="340" width="10" height="160" as="geometry" />
+        </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-78" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2325" y="-3470" width="100" height="910" as="geometry" />
         </mxCell>
@@ -3047,6 +3050,9 @@
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-80" value="KHS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="30bcgzs0VdibMbPzDOPC-78" vertex="1">
           <mxGeometry y="98.67469879518073" width="100" height="811.3253012048193" as="geometry" />
+        </mxCell>
+        <mxCell id="H5DkIHyThEmQ24X-kmG6-94" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="30bcgzs0VdibMbPzDOPC-78">
+          <mxGeometry x="45" y="350" width="10" height="160" as="geometry" />
         </mxCell>
         <mxCell id="30bcgzs0VdibMbPzDOPC-81" value="Search URL" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="30bcgzs0VdibMbPzDOPC-67" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
