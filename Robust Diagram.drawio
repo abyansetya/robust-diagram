@@ -1315,7 +1315,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9HcU2amrgL2dp1FwgtfP" name="Squence diagram">
-    <mxGraphModel dx="10343" dy="6058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="9917" dy="5819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1704,14 +1704,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NzQeethei2aqIecsyIPb-2" value="Request_DashboarData" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" source="H5DkIHyThEmQ24X-kmG6-26" edge="1">
+        <mxCell id="NzQeethei2aqIecsyIPb-2" value="get_dataDashboard" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" source="H5DkIHyThEmQ24X-kmG6-26" edge="1">
           <mxGeometry x="-0.0007" width="80" relative="1" as="geometry">
             <mxPoint x="-8130" y="-3490" as="sourcePoint" />
             <mxPoint x="-6898.68" y="-3490" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NzQeethei2aqIecsyIPb-3" value="display" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="H5DkIHyThEmQ24X-kmG6-26" edge="1">
+        <mxCell id="NzQeethei2aqIecsyIPb-3" value="view_dashboard" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="H5DkIHyThEmQ24X-kmG6-26" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-6910" y="-3440" as="sourcePoint" />
             <mxPoint x="-8130" y="-3440" as="targetPoint" />
