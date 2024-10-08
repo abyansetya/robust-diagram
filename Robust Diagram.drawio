@@ -1315,10 +1315,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9HcU2amrgL2dp1FwgtfP" name="Squence diagram">
-    <mxGraphModel dx="14643" dy="8473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="11997" dy="6987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Q_csqLkyMhJUgAPwHE2_-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-6960" y="-910" width="110" height="600" as="geometry" />
+        </mxCell>
         <mxCell id="ldL5hhV34pnskzGD8ajM-147" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="910" y="-5040" width="100" height="930" as="geometry" />
         </mxCell>
@@ -1412,11 +1415,11 @@
         <mxCell id="g0wy19_jfx6esHMjigKh-4" value="" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-7105" y="-905" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5VfYxFtjgaxKayJ0ElSu-1" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Display Gedung/Ruang Kelas Not Found Page&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;perimeterSpacing=1;strokeWidth=1;rounded=0;backgroundOutline=0;labelBackgroundColor=none;labelBorderColor=none;noLabel=0;portConstraintRotation=0;snapToPoint=0;fixDash=0;" parent="1" vertex="1">
+        <mxCell id="5VfYxFtjgaxKayJ0ElSu-1" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Display Gedung/Ruang Kelas Not Found Page&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};perimeterSpacing=1;strokeWidth=1;rounded=0;backgroundOutline=0;labelBackgroundColor=none;labelBorderColor=none;noLabel=0;portConstraintRotation=0;snapToPoint=0;fixDash=0;" parent="1" vertex="1">
           <mxGeometry x="-6955" y="-815" width="100" height="500" as="geometry" />
         </mxCell>
         <mxCell id="5VfYxFtjgaxKayJ0ElSu-2" value="" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-6935" y="-905" width="70" height="80" as="geometry" />
+          <mxGeometry x="-6940" y="-905" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5VfYxFtjgaxKayJ0ElSu-4" value="login" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="0.463" width="80" relative="1" as="geometry">
@@ -1963,7 +1966,7 @@
         <mxCell id="3oY0HzD4DQM4V-debB__-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1yZCHsqYMgJ7JHs5-3fr-13" vertex="1">
           <mxGeometry x="45" y="600" width="10" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="1yZCHsqYMgJ7JHs5-3fr-16" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1" connectable="0">
+        <mxCell id="1yZCHsqYMgJ7JHs5-3fr-16" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;fontColor=default;labelBackgroundColor=#b11010;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-6205" y="-5330" width="100" height="930" as="geometry" />
         </mxCell>
         <mxCell id="1yZCHsqYMgJ7JHs5-3fr-17" value="" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1yZCHsqYMgJ7JHs5-3fr-16" vertex="1">
@@ -2094,13 +2097,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EpTcm2fFGdgFnKh0fLsc-1" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-8600" y="-3770" width="100" height="920" as="geometry" />
+          <mxGeometry x="-8600" y="-3770" width="100" height="970" as="geometry" />
         </mxCell>
         <mxCell id="EpTcm2fFGdgFnKh0fLsc-2" value="Bagian Akademik" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="EpTcm2fFGdgFnKh0fLsc-1" vertex="1">
           <mxGeometry x="35" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EpTcm2fFGdgFnKh0fLsc-3" value="Kaprdi" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="EpTcm2fFGdgFnKh0fLsc-1" vertex="1">
-          <mxGeometry y="70" width="100" height="850" as="geometry" />
+          <mxGeometry y="70" width="100" height="900" as="geometry" />
         </mxCell>
         <mxCell id="EpTcm2fFGdgFnKh0fLsc-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="EpTcm2fFGdgFnKh0fLsc-3" vertex="1">
           <mxGeometry x="45" y="90" width="10" height="680" as="geometry" />
