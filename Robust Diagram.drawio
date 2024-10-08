@@ -1315,7 +1315,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9HcU2amrgL2dp1FwgtfP" name="Squence diagram">
-    <mxGraphModel dx="10409" dy="6095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="10343" dy="6058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1691,7 +1691,7 @@
         <mxCell id="H5DkIHyThEmQ24X-kmG6-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="DbMeF7io-W-B7qxrBmZc-10" vertex="1">
           <mxGeometry x="45" y="880" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NzQeethei2aqIecsyIPb-1" value="login" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1" target="pRV-BA3cY0EK5fy6CYRH-7" source="EpTcm2fFGdgFnKh0fLsc-4">
+        <mxCell id="NzQeethei2aqIecsyIPb-1" value="login" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" source="EpTcm2fFGdgFnKh0fLsc-4" target="pRV-BA3cY0EK5fy6CYRH-7" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-8499.998181818182" y="-3520" as="sourcePoint" />
             <mxPoint x="-8148.68" y="-3520" as="targetPoint" />
@@ -1700,14 +1700,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NzQeethei2aqIecsyIPb-2" value="Request_DashboarData" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1" source="H5DkIHyThEmQ24X-kmG6-26">
+        <mxCell id="NzQeethei2aqIecsyIPb-2" value="Request_DashboarData" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" source="H5DkIHyThEmQ24X-kmG6-26" edge="1">
           <mxGeometry x="-0.0007" width="80" relative="1" as="geometry">
             <mxPoint x="-8130" y="-3490" as="sourcePoint" />
             <mxPoint x="-6898.68" y="-3490" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NzQeethei2aqIecsyIPb-3" value="display" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1" target="H5DkIHyThEmQ24X-kmG6-26">
+        <mxCell id="NzQeethei2aqIecsyIPb-3" value="display" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="H5DkIHyThEmQ24X-kmG6-26" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="-6910" y="-3440" as="sourcePoint" />
             <mxPoint x="-8130" y="-3440" as="targetPoint" />
@@ -1727,9 +1727,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nS5f0IJWIzMl5_VrMJXc-3" value="click pengaturan mata kuliah" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="VPH4OoWDbOHHXU-a5KU8-9" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
+          <mxGeometry x="-0.121" width="80" relative="1" as="geometry">
             <mxPoint x="-7737.68" y="-3250" as="sourcePoint" />
             <mxPoint x="-6048.18" y="-3250" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nS5f0IJWIzMl5_VrMJXc-4" value="Display" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
