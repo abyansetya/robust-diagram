@@ -1315,7 +1315,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9HcU2amrgL2dp1FwgtfP" name="Squence diagram">
-    <mxGraphModel dx="11997" dy="6987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="10794" dy="6311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1666,13 +1666,13 @@
           <mxGeometry x="45" y="231.33" width="10" height="418.67" as="geometry" />
         </mxCell>
         <mxCell id="DbMeF7io-W-B7qxrBmZc-4" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-3993.6800000000003" y="-3690" width="100" height="910" as="geometry" />
+          <mxGeometry x="-3993.6800000000003" y="-3690" width="100" height="940" as="geometry" />
         </mxCell>
         <mxCell id="DbMeF7io-W-B7qxrBmZc-5" value="" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="DbMeF7io-W-B7qxrBmZc-4" vertex="1">
           <mxGeometry x="10" width="80" height="87.71084337349399" as="geometry" />
         </mxCell>
         <mxCell id="DbMeF7io-W-B7qxrBmZc-6" value="Database&lt;div&gt;Jadwal Kuliah&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="DbMeF7io-W-B7qxrBmZc-4" vertex="1">
-          <mxGeometry y="98.67" width="100" height="591.33" as="geometry" />
+          <mxGeometry y="98.67" width="100" height="841.33" as="geometry" />
         </mxCell>
         <mxCell id="H5DkIHyThEmQ24X-kmG6-20" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="DbMeF7io-W-B7qxrBmZc-4" vertex="1">
           <mxGeometry x="45" y="610" width="10" height="80" as="geometry" />
@@ -1865,7 +1865,7 @@
           <mxGeometry x="-8405" y="-5270" width="110" height="910" as="geometry" />
         </mxCell>
         <mxCell id="Olm_cQshI_SKRRo800_2-2" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="Olm_cQshI_SKRRo800_2-1" vertex="1">
-          <mxGeometry x="-5" y="-23.33333333333334" width="100" height="174.23000000000002" as="geometry" />
+          <mxGeometry x="-5" y="70" width="100" height="80.9" as="geometry" />
         </mxCell>
         <mxCell id="Olm_cQshI_SKRRo800_2-3" value="Dashboard Page" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Olm_cQshI_SKRRo800_2-1" vertex="1">
           <mxGeometry x="5" y="163.33" width="100" height="736.67" as="geometry" />
