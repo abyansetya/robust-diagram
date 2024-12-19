@@ -3968,7 +3968,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Squence diagram" id="bRABuLAAfeltyw-2DObe">
-    <mxGraphModel dx="25230" dy="15340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="10232" dy="6047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Nnj52wlLFRgog_02GXVh-0" />
         <mxCell id="Nnj52wlLFRgog_02GXVh-1" parent="Nnj52wlLFRgog_02GXVh-0" />
@@ -6548,7 +6548,7 @@
         <mxCell id="FpTpZXjaB8OwPEVGaBqU-63" value="" style="shape=umlBoundary;whiteSpace=wrap;html=1;" vertex="1" parent="Nnj52wlLFRgog_02GXVh-1">
           <mxGeometry x="-6440" y="-5260" width="85" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FpTpZXjaB8OwPEVGaBqU-64" value="Halaman Login" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Nnj52wlLFRgog_02GXVh-1">
+        <mxCell id="FpTpZXjaB8OwPEVGaBqU-64" value="Halaman IRS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Nnj52wlLFRgog_02GXVh-1">
           <mxGeometry x="-6440" y="-5180" width="100" height="370" as="geometry" />
         </mxCell>
         <mxCell id="FpTpZXjaB8OwPEVGaBqU-65" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Nnj52wlLFRgog_02GXVh-1">
@@ -6563,7 +6563,7 @@
         <mxCell id="FpTpZXjaB8OwPEVGaBqU-68" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="FpTpZXjaB8OwPEVGaBqU-67">
           <mxGeometry x="45" y="190" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FpTpZXjaB8OwPEVGaBqU-69" value="display" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="FpTpZXjaB8OwPEVGaBqU-59" parent="Nnj52wlLFRgog_02GXVh-1">
+        <mxCell id="FpTpZXjaB8OwPEVGaBqU-69" value="4. display" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" target="FpTpZXjaB8OwPEVGaBqU-59" parent="Nnj52wlLFRgog_02GXVh-1">
           <mxGeometry x="-0.115" y="10" width="80" relative="1" as="geometry">
             <mxPoint x="-6395" y="-4905.53" as="sourcePoint" />
             <mxPoint x="-6985.5526315789475" y="-4905.53" as="targetPoint" />
