@@ -3968,7 +3968,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Squence diagram" id="bRABuLAAfeltyw-2DObe">
-    <mxGraphModel dx="11230" dy="6311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="11648" dy="6491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Nnj52wlLFRgog_02GXVh-0" />
         <mxCell id="Nnj52wlLFRgog_02GXVh-1" parent="Nnj52wlLFRgog_02GXVh-0" />
@@ -6313,8 +6313,8 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nnj52wlLFRgog_02GXVh-623" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Pembimbing akademik&amp;nbsp;melihat perkembahangan status mahasiswa&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Nnj52wlLFRgog_02GXVh-1" vertex="1">
-          <mxGeometry x="-1815" y="1320" width="980" height="50" as="geometry" />
+        <mxCell id="Nnj52wlLFRgog_02GXVh-623" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;SRS 02&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;Pembimbing akademik&amp;nbsp;melihat perkembahangan status mahasiswa&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Nnj52wlLFRgog_02GXVh-1" vertex="1">
+          <mxGeometry x="-1815" y="1300" width="980" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Nnj52wlLFRgog_02GXVh-624" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Pembimbing akademik&amp;nbsp;melihat dokumen irs mahasiswa&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Nnj52wlLFRgog_02GXVh-1" vertex="1">
           <mxGeometry x="-1765" y="2590" width="810" height="50" as="geometry" />
